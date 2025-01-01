@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li>
+                <a href="https://github.com/eiglwyson" target="_blank" rel="noopener noreferrer" >
+                <p>sobre min</p>
+            </li>
+            <li>
+                <a href="https://github.com/eiglwyson" target="_blank" rel="noopener noreferrer" >
+                <p>contato</p>
+            </li>
+            <li>
+                <a href="https://github.com/eiglwyson" target="_blank" rel="noopener noreferrer" >
+                <p>cursos</p>
+                </a>
+            </li>
+        </ul>
+    </nav>
+
+    <header>
+        <div class="center">
+        <img src="imagen/IMG_20241127_152313_377.webp"></img>
+        </div>
+        <h1>Edigleson alexandre</h1>
+        <h2>beck end</h2>
+    </header>
+
+    <main>
+        <section>
+            <h3>sobre min</h3>
+            <p>
+               bom dia/boa noite/boa tarde sou iniciante na area de programaçao 
+            </p>
+        </section>
+    </main>
+
+    <footer>
+             <a href="https://github.com/eiglwyson">
+            <img src="imagen/desktop-wallpaper-2348×1461-cenario-anime-arte-da-paisagem-cenarios-digitais-calming-anime-nature (1).jpg"></img>
+            <p>github</p>
+             </a>
+        
+    </footer>
+
+</body>
+</html>
